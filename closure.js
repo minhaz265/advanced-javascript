@@ -1,0 +1,5 @@
+function stopWatch(){
+    return function(){
+        
+    }
+}
